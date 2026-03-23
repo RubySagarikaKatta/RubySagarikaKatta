@@ -1,6 +1,6 @@
 # Hi there, I'm Ruby! 👋
 
-![Banner Image](https://unsplash.com/s/illustrations/cute)
+![Banner Image](https://www.google.com/imgres?q=images%20cute%20&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FACxlXnn_o1AmwiiWj-Gs2TUdTx27asctBFC8PXOKSP8mIyOLgQmuuCLZ80tPetZnPIY&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.cute_kawaii.wallpaper&docid=Skk6yGsAfClmqM&tbnid=uvHAsMba37hiIM&vet=12ahUKEwjn9ZG_jLaTAxUC1DgGHRfsI5MQnPAOegQIIhAB..i&w=512&h=512&hcb=2&ved=2ahUKEwjn9ZG_jLaTAxUC1DgGHRfsI5MQnPAOegQIIhAB)
 
 ## About Me 🚀
 
