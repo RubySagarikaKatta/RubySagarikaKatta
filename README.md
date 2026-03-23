@@ -1,6 +1,6 @@
 # Hi there, I'm Ruby! 👋
 
-![Banner Image]([your_banner_image_url_here](https://unsplash.com/s/illustrations/cute))
+![Banner Image](https://unsplash.com/s/illustrations/cute)
 
 ## About Me 🚀
 
