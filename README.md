@@ -1,6 +1,7 @@
 # Hi there, I'm Ruby! 👋
 
-![Banner Image]<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/e7c5b11a-9c1e-4b35-854e-95220de7d625" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a310a96d-59aa-47e4-9f46-b22984e6b64d" />
+
 
 ## About Me 🚀
 
