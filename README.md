@@ -1,41 +1,24 @@
-# Hi there, I'm Ruby! 👋
+# Hi, I'm Ruby Sagarika 👋
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a310a96d-59aa-47e4-9f46-b22984e6b64d" />
+Python Developer | Gen AI & Automation | RAG | LLMs | Streamlit
 
+## About Me
+- 🔭 Building Gen AI applications — RAG pipelines, LLM integrations, real-time AI systems
+- 🌱 Currently exploring: LangChain, FastAPI, vector databases
+- 💼 3+ years at Infosys — automation pipelines, Streamlit dashboards, Gen AI POCs
+- 📫 Reach me: meetrubysagarika@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ruby-sagarika-56192b1b0
 
-## About Me 🚀
-
-I'm a passionate **Python Developer** with experience in **Python, SQL, Datascience**. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **Machine Learning**
-- 🔭 Working on: **Upskilling myself in Datascience and ML**
-- 🌍 Languages: **Telugu, English, Hindi; Python**
-- 📫 How to reach me: **meetrubysagarika@gmail.com**
-- ⚡ Fun fact: **I enjoy turning messy real-world problems into clean, automated systems and A Introvert with social anxiety**
-
-## My Skills 🧠
-
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-## Get in Touch 📬
-
-- **[LinkedIn]**(https://www.linkedin.com/in/ruby-sagarika-56192b1b0/)
-
-
-
-<!--
-**RubySagarikaKatta/RubySagarikaKatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning AI/ML,GEN AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Description | Tech |
+|---|---|---|
+| [RAG Document Chatbot](https://github.com/RubySagarikaKatta/rag-document-chatbot) | End-to-end RAG pipeline with FAISS vector search and LLM Q&A | Python, FAISS, sentence-transformers, Streamlit |
+| [Emotion Detection System](https://github.com/RubySagarikaKatta/Emotion_Detection_System) | Real-time emotion detection with live dashboard and email alerts | DeepFace, OpenCV, SQLite, Streamlit |
+| [Automation Pipeline](https://github.com/RubySagarikaKatta/automation-pipeline) | Financial data monitoring with anomaly detection and workflow automation | Python, Camunda, SQL |
